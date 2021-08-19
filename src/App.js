@@ -1,4 +1,3 @@
-import Alert from 'react-bootstrap/Alert';
 import './App.css';
 import logo from './logo.svg';
 
